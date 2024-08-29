@@ -1,5 +1,5 @@
 # Use Ubuntu as the base image
-FROM ubuntu:focal-20221130
+FROM ubuntu:22.04
 # Set environment variable to skip the interactive installation
 ENV DEBIAN_FRONTEND=noninteractive
 
