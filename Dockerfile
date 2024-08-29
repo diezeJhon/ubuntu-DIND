@@ -21,7 +21,7 @@ RUN apt-get update && apt-get install -y \
        postgresql-client \
        swig \
        wget \
-       python python3.7 python3-pip \
+       python2 python3 python3-pip \
        git \
        vim \
        openssh-client \
